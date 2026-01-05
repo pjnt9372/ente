@@ -1,1 +1,0 @@
-- Prateek: Fix app icon state and dark icon gradient in iOS
